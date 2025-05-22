@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD\\PLD\\PLD.csproj": {}
+    "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\PLD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD\\PLD\\PLD.csproj": {
+    "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\PLD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD\\PLD\\PLD.csproj",
+        "projectUniqueName": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\PLD.csproj",
         "projectName": "PLD",
-        "projectPath": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD\\PLD\\PLD.csproj",
+        "projectPath": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\PLD.csproj",
         "packagesPath": "C:\\Users\\ALI ALAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD\\PLD\\obj\\",
+        "outputPath": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

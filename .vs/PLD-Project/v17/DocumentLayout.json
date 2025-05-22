@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PLD\\PLD\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PLD\\PLD\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PLD\\PLD\\pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PLD\\PLD\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\pro.grm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pro.grm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Program.cs",
+              "RelativeDocumentMoniker": "PLD\\PLD\\Program.cs",
+              "ToolTip": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Program.cs",
+              "RelativeToolTip": "PLD\\PLD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:54:54.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pro.cs",
+              "DocumentMoniker": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\pro.cs",
+              "RelativeDocumentMoniker": "PLD\\PLD\\pro.cs",
+              "ToolTip": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\pro.cs",
+              "RelativeToolTip": "PLD\\PLD\\pro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:54:19.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PLD\\PLD\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Form1.Designer.cs",
+              "RelativeToolTip": "PLD\\PLD\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:30:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Form1.cs",
+              "RelativeDocumentMoniker": "PLD\\PLD\\Form1.cs",
+              "ToolTip": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\PLD\\PLD\\Form1.cs",
+              "RelativeToolTip": "PLD\\PLD\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:29:16.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pro.grm",
+              "DocumentMoniker": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\pro.grm",
+              "RelativeDocumentMoniker": "pro.grm",
+              "ToolTip": "C:\\Users\\ALI ALAA\\Desktop\\PLD\\PLD-Project\\pro.grm",
+              "RelativeToolTip": "pro.grm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-18T22:29:03.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
